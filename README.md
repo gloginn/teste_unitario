@@ -15,4 +15,5 @@ npm install --save-dev jest
 Isso porque usei o gitignore na pasta do node modules igual tava no projeto do edu.
  
 Tutorial Utilizado: https://www.youtube.com/watch?v=r9HdJ8P6GQI
-Nem terminei de ve
+
+Usa o yarn jest ou npm jest faz o teste
